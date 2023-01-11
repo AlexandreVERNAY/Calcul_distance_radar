@@ -8,4 +8,4 @@ Algorithme calculant le retard à partir de la corrélation du signal émis et d
 Mise en forme des calculs effectués dans le script MATLAB
 
 ## [main.m](https://github.com/AlexandreVERNAY/Calcul_distance_radar/blob/main/main.m)
-Script principal MATLAB
+Script MATLAB
